@@ -1,0 +1,17 @@
+# filetypes
+*.pdf
+*.zip
+*.class
+*.pyc
+*.odt
+*.png
+*.o
+
+# general folders
+venv/
+.vscode/
+.lprof/
+
+# test/debug/etc
+test*
+scraps/
